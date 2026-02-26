@@ -12,5 +12,5 @@ Become a job-ready DevOps Engineer
 | Day | Topic | Notes |
 |-----|-------|-------|
 | Day 01 | Linux Basics | [Click here](./Linux-Basics/notes.md) |
-| Day 02 | Linux Basic Commands | [Click here](./Day-02-Linux-Basics/notes.md) |
+| Day 02 | Linux Basic Commands | [Click here](./Day-02 - Linux-Basics) |
 ## 🔥 Started: February 2026
